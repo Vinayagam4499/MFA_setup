@@ -25,7 +25,7 @@ Follow these steps to get a local copy up and running.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Vinayagam4499/MFA_setup.git
+   https://github.com/Vinayagam4499/MFA_setup.git
 
  
 python3 -m venv env
